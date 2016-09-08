@@ -1,0 +1,11 @@
+Source: athena
+Maintainer: Atlas Platform Team <atlas_platform_team@naspersclassifieds.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: athena
+Architecture: any
+Depends:
+Description: automation tooling
+ athena is an automation framework that serves software development purpose

@@ -1,0 +1,3 @@
+bin var/lib/athena/
+plugins var/lib/athena/
+athena var/lib/athena/
