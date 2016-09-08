@@ -4,4 +4,4 @@ before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -qq build-essential devscripts
 
-script: make deb
+script: debuild --no-tgz-check -us -uc
